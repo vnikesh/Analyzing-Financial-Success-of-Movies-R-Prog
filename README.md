@@ -12,4 +12,6 @@ The dataset is comprised of nineteen different attributes that describe various 
 
 Plot 1 - Wishker Graph for movie with different movies.  
 
+![Whisker Graph](https://github.com/vnikesh/Financial-Success-of-Movies/blob/master/Images/Whisker_graph.png)  
+
 
