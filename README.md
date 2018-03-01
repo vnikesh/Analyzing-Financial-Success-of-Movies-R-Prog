@@ -14,4 +14,19 @@ Plot 1 - Wishker Graph for movie with different movies.
 
 ![Whisker Graph](https://github.com/vnikesh/Financial-Success-of-Movies/blob/master/Images/Whisker_graph.png)  
 
+Plot 2 - Frequency Distribution.  
 
+![](https://github.com/vnikesh/Financial-Success-of-Movies/blob/master/Images/Frequency_distribution1.png)  
+![](https://github.com/vnikesh/Financial-Success-of-Movies/blob/master/Images/Frequency_distribution2.png)  
+
+Plot 3 - Residual vs Fitted.  
+
+![](https://github.com/vnikesh/Financial-Success-of-Movies/blob/master/Images/residual_fitted.png)  
+
+Plot 4 - LHS vs RHS.  
+
+![](https://github.com/vnikesh/Financial-Success-of-Movies/blob/master/Images/plot.png)  
+
+Plot 5 - Scatter Plot.  
+
+![](https://github.com/vnikesh/Financial-Success-of-Movies/blob/master/Images/Scatter.png)  
