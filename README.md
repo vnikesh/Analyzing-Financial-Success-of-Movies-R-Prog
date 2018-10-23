@@ -10,7 +10,7 @@ The dataset consists of columns that compare the finance based on US, Overseas a
 
 The dataset is comprised of nineteen different attributes that describe various aspects of the movies. Overall, the dataset has over 600 entries that have no missing entries. The dataset has a variety of movies that range from the 1980s to present day. It has five genres that categorize the movies with the date and studio that released the movie.  
 
-Plot 1 - Wishker Graph for movie with different movies.  
+Plot 1 - Whisker Graph for movie with different movies.  
 
 ![Whisker Graph](https://github.com/vnikesh/Financial-Success-of-Movies/blob/master/Images/Whisker_graph.png)  
 
